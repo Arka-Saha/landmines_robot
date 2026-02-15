@@ -34,9 +34,7 @@ The objective is to reduce accidental exposure of civilians, wildlife, and field
 
 ## 🗺️ Location Heat Map
 
-*(Insert system-generated terrain risk heatmap below)*
-
-![Location Heatmap](images/location_heatmap_placeholder.png)
+![Location Heatmap](images/heatmap.png)
 
 ---
 
@@ -44,7 +42,7 @@ The objective is to reduce accidental exposure of civilians, wildlife, and field
 
 *(Insert thermal anomaly detection image below)*
 
-![Thermal Scanning Output](images/thermal_scanning_placeholder.png)
+![Thermal Scanning Output](images/thermal.png)
 
 ---
 
@@ -52,7 +50,7 @@ The objective is to reduce accidental exposure of civilians, wildlife, and field
 
 *(Insert terrain classification visualization / confusion matrix / sample prediction output below)*
 
-![Landmine Classification Model](images/landmine_classification_placeholder.png)
+![Landmine Classification Model](images/class.png)
 
 ---
 
@@ -60,7 +58,7 @@ The objective is to reduce accidental exposure of civilians, wildlife, and field
 
 *(Insert final marked terrain output image below)*
 
-![Fluorescent Hazard Marking Output](images/output_placeholder.png)
+![Fluorescent Hazard Marking Output](images/output.png)
 
 ---
 
@@ -80,17 +78,3 @@ The objective is to reduce accidental exposure of civilians, wildlife, and field
 * **SDG 15 – Life on Land**
 
 ---
-
-## 📜 License
-
-This project is intended for research and humanitarian safety applications only.
-
----
-
-## 👥 Team
-
-(Add team member names here)
-
----
-
-⭐ If you found this project interesting, consider giving it a star!
